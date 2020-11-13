@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-![](https://github.com/AshaNarayana/contextAPI-MoviesListManagement/blob/main/template/coverPage.PNG)
+![](https://github.com/AshaNarayana/contextAPI-MoviesListManagement/blob/main/coverPage.PNG)
 
 ## Available Scripts
 
