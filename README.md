@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](https://github.com/AshaNarayana/contextAPI-MoviesListManagement/blob/main/template/coverPage.PNG)
 
 ## Available Scripts
 
